@@ -6,11 +6,9 @@ export default function Navbar() {
     <nav className="navbar navbar-light bg-light navbar">
       <div className="container-fluid d-flex align-items-center">
 
-        <Link className="navbar-brand me-4 name fs-1 fst-italic" to="/">
-          <div>Pick &</div>
-          <div>Dine</div>
+        <Link className="navbar-brand me-4 name fs-3 fst-italic" to="/">
+          <div>Pick & Dine</div>
         </Link>
-        <Link className="nav-link" to="/">Search</Link>
 
         <div className="d-flex">
           <Link className="nav-link me-3" to="/favourites">Favourites</Link>

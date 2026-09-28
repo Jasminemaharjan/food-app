@@ -1,5 +1,7 @@
 .navbar {
   background-color:#5B8C5A !important;
+   padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .packet {
@@ -15,4 +17,11 @@
 .mainpage
 {
   background-color: #F7F5E8;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+    opacity: 0.8;
+    filter: brightness(0.8);
 }
