@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Momo",
+    "name": "Chicken Momo",
+    "img": "https://i.pinimg.com/736x/3f/61/cb/3f61cb6dd1171c583bd5d7009c9dca64.jpg",
+    "option": {
+      "regular": 180,
+      "medium": 250,
+      "large": 320
+    },
+    "description": "Steamed dumplings filled with delicious seasoned chicken."
+  },
+  {
+    "id": 2,
+    "categoryName": "Burger",
+    "name": "Chicken Burger",
+    "img": "https://i.pinimg.com/1200x/41/0f/23/410f23005c79173f3548d109f1ded8cc.jpg",
+    "option": {
+      "regular": 250,
+      "medium": 350,
+      "large": 450
+    },
+    "description": "Crispy chicken burger with fresh vegetables and special sauce."
+  },
+  {
+    "id": 3,
+    "categoryName": "Pizza",
+    "name": "Margherita Pizza",
+    "img": "https://i.pinimg.com/1200x/c0/e1/fd/c0e1fd59cdd9f4ee81b9c5a827a066fe.jpg",
+    "option": {
+      "regular": 350,
+      "medium": 450,
+      "large": 600
+    },
+    "description": "Classic pizza topped with tomato sauce and mozzarella cheese."
+  },
+  {
+    "id": 4,
+    "categoryName": "Snacks",
+    "name": "French Fries",
+    "img": "https://i.pinimg.com/1200x/1e/93/bf/1e93bf8ebb61210335b52cdb37e44961.jpg",
+    "option": {
+      "regular": 120,
+      "medium": 160,
+      "large": 220
+    },
+    "description": "Crispy golden fries served with tomato ketchup."
+  },
+  {
+    "id": 5,
+    "categoryName": "Drinks",
+    "name": "Cold Coffee",
+    "img": "https://i.pinimg.com/736x/8e/41/dd/8e41dd49821ad3f6cd98b330b954944a.jpg",
+    "option": {
+      "regular": 120,
+      "medium": 180,
+      "large": 250
+    },
+    "description": "Refreshing chilled coffee blended with milk and ice."
+  }
+]

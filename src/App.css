@@ -19,9 +19,3 @@
   background-color: #F7F5E8;
 }
 
-.carousel-item img {
-    height: 500px;
-    object-fit: cover;
-    opacity: 0.8;
-    filter: brightness(0.8);
-}

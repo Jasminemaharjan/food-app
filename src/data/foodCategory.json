@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Momo"
+  },
+  {
+    "id": 2,
+    "categoryName": "Burger"
+  },
+  {
+    "id": 3,
+    "categoryName": "Pizza"
+  },
+  {
+    "id": 4,
+    "categoryName": "Snacks"
+  },
+  {
+    "id": 5,
+    "categoryName": "Drinks"
+  }
+]
