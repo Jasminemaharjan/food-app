@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoURI = 'mongodb+srv://jasminemaharjan2418_db_user:goFood@clustera.9n6clrl.mongodb.net/?appName=ClusterA';
+const mongoURI = 'mongodb+srv://jasminemaharjan2418_db_user:@clustera.9n6clrl.mongodb.net/?appName=ClusterA';
 
 const mongoDB = async () => {
 
