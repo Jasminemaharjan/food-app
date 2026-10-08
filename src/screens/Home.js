@@ -7,17 +7,45 @@ import Card from '../components/Card';
 export default function Home() {
   return (
     <div className='mainpage'>
-      <div> <Navbar /> </div>
-      <div><Carousel /></div>
-      <div className='m-3'>
-        <Card />
-        <Card />
-        <Card />
-        <Card />
-        <Card />
 
+      <div>
+        <Navbar />
       </div>
-      <div> <Footer /> </div>
+
+      <div>
+        <Carousel />
+      </div>
+
+      <div className='container'>
+        <div className='row'>
+
+          <div className='col-12 col-md-6 col-lg-4'>
+            <Card />
+          </div>
+
+          <div className='col-12 col-md-6 col-lg-4'>
+            <Card />
+          </div>
+
+          <div className='col-12 col-md-6 col-lg-4'>
+            <Card />
+          </div>
+
+          <div className='col-12 col-md-6 col-lg-4'>
+            <Card />
+          </div>
+
+          <div className='col-12 col-md-6 col-lg-4'>
+            <Card />
+          </div>
+
+        </div>
+      </div>
+
+      <div>
+        <Footer />
+      </div>
+
     </div>
   )
 }
